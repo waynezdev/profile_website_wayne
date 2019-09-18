@@ -12,6 +12,10 @@
 #wayne {
   position: absolute;
   font-family: "Roboto";
+  color: #3aafa9;
+  font-size: 400%;
+  width: 100vw;
+  height: 50px;
 }
 
 body {
@@ -20,8 +24,9 @@ body {
 
 #testimonials {
   text-align: center;
-  color: blue;
+  color: #17252A;
   font-family: "Anton", sans-serif;
+  font-size: 150%;
 }
 
 div h2 {
@@ -40,6 +45,8 @@ div p {
   flex-direction: row;
   justify-content: space-around;
   font-family: "Anton", sans-serif;
+  background-color: yellow;
+  margin: 10px 0px;
 }
 
 * {
