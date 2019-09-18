@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=Anton|Crete+Round:400,400i&display=swap");
+@import url("https://fonts.googleapis.com/css?family=Anton|Crete+Round:400,400i|Roboto&display=swap");
 #topimage {
   height: auto;
   width: auto;
@@ -9,14 +9,37 @@
   width: 100vw;
 }
 
+#wayne {
+  position: absolute;
+  font-family: "Roboto";
+}
+
 body {
   background-color: #3aafa9;
+}
+
+#testimonials {
+  text-align: center;
+  color: blue;
+  font-family: "Anton", sans-serif;
+}
+
+div h2 {
+  font-family: "Anton", sans-serif;
+  text-align: center;
+  font-size: 200%;
+}
+
+div p {
+  font-family: "Crete round", serif;
+  color: #feffff;
 }
 
 #topbar {
   display: flex;
   flex-direction: row;
   justify-content: space-around;
+  font-family: "Anton", sans-serif;
 }
 
 * {
