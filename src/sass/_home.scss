@@ -51,13 +51,21 @@ p {
   color: #2b7a78;
 }
 
+.alltestimonials{
+
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
 .testimonials {
 
   background-color: aliceblue;
   border-radius: 30px;
   text-align: lef;
   padding: 5px 20px;
-  margin: 5px;
+  margin: 10px 50px;
   // border: 2px;
   width: 75%;
   // display: flex;
