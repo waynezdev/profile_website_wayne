@@ -65,6 +65,12 @@ body {
   }
 }
 #topimage {
+  height: auto;
+  width: auto;
+  position: relative;
+}
+
+#topimage {
   width: 100vw;
 }
 
@@ -111,9 +117,28 @@ p {
   justify-content: space-around;
   font-family: "Lato", Open Sans, sans-serif;
   font-weight: bold;
-  color: #feffff;
+  font-size: 205%;
+  color: #000000;
+  margin: 10px 4px;
+}
+
+a.topbaroption {
   text-decoration: none;
-  margin: 0px 0px;
+}
+a.topbaroption:visited {
+  color: #2b7a78;
+}
+a.topbaroption:hover {
+  transform: rotate(180deg);
+  transition: 0.7s;
+  -webkit-transition: 0.7s;
+  -moz-transition: 0.7s;
+  -ms-transition: 0.7s;
+  -o-transition: 0.7s;
+  -webkit-transform: rotate(180deg);
+  -moz-transform: rotate(180deg);
+  -o-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
 }
 
 * {
