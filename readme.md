@@ -44,11 +44,37 @@ navigation should be simple and easy to see where to click and what page you wan
 
 
 
+##### Font choices
+
+top bar - Lato (bold) , fall back - Open Sans, Arial
+
+Headings - Raleway, fallback -  Source Sans Pro, Arial
+
+general text in paragraphs - Lato , fall back - Open Sans, Arial
+
+Special words on images -  Nothing You Could Do, fall back - Rennie Beanie, Crimson Text, Arial
+
+
+
 
 
 ## **Functionality / features**
 
+##### Feature 1
 
+Carousel display of the most recent work
+
+
+
+##### Feature 2
+
+Blog page 
+
+
+
+##### Feature 3
+
+Contact form for viewers to send message to me
 
 
 
@@ -89,6 +115,18 @@ navigation should be simple and easy to see where to click and what page you wan
 ## **Target audience**
 
 
+
+
+
+potential clients
+
+
+
+potential collaborators
+
+
+
+Potential employers
 
 
 
