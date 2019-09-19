@@ -1,6 +1,6 @@
 @import url("https://fonts.googleapis.com/css?family=Lato:400,700|Nothing+You+Could+Do|Raleway:700|Reenie+Beanie&display=swap");
 @import url("https://fonts.googleapis.com/css?family=Anton|Crete+Round:400,400i|Roboto&display=swap");
-body {
+.blogbody {
   font-family: "Crete+Round", Arial;
   padding: 20px;
   background: #f1f1f1;
@@ -65,13 +65,7 @@ body {
   }
 }
 #topimage {
-  height: auto;
-  width: auto;
-  position: relative;
-}
-
-#topimage {
-  width: 100vw;
+  width: 100%;
 }
 
 #wayne {
@@ -117,12 +111,12 @@ p {
   justify-content: space-around;
   font-family: "Lato", Open Sans, sans-serif;
   font-weight: bold;
-  font-size: 205%;
   color: #000000;
   margin: 10px 4px;
 }
 
 a.topbaroption {
+  font-size: 100%;
   text-decoration: none;
 }
 a.topbaroption:visited {
