@@ -279,4 +279,15 @@ p {
   width: 75%;
 }
 
+#allportfolio {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.portfolio img {
+  width: 100%;
+}
+
 /*# sourceMappingURL=main.css.map */
