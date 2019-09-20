@@ -16,14 +16,14 @@
 
 /* Fake image */
 .fakeimg {
-  background-color: #aaa;
+  background-color: #def2f1;
   width: 100%;
   padding: 20px;
 }
 
 /* Add a card effect for articles */
 .card {
-  background-color: white;
+  background-color: #2b7a78;
   padding: 20px;
   margin-top: 20px;
 }
@@ -39,7 +39,7 @@
 .footer {
   padding: 20px;
   text-align: center;
-  background: #ddd;
+  background: #2b7a78;
   margin-top: 20px;
 }
 
@@ -50,6 +50,16 @@
     padding: 0;
   }
 }
+.card h5 {
+  color: #def2f1;
+  font-family: "Lato", sans-serif;
+}
+
+.card h2 {
+  color: #def2f1;
+  font-family: "Lato", sans-serif;
+}
+
 /* Style inputs with type="text", select elements and textareas */
 input[type=text], select, textarea {
   width: 100%;
