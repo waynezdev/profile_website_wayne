@@ -50,6 +50,12 @@
     padding: 0;
   }
 }
+.card {
+  color: #def2f1;
+  font-family: "Lato", sans-serif;
+  color: #2b7a78;
+}
+
 .card h5 {
   color: #def2f1;
   font-family: "Lato", sans-serif;
@@ -58,6 +64,15 @@
 .card h2 {
   color: #def2f1;
   font-family: "Lato", sans-serif;
+}
+
+.card h3 {
+  color: #def2f1;
+  font-size: 150%;
+}
+
+.blogimg {
+  width: 100%;
 }
 
 /* Style inputs with type="text", select elements and textareas */
