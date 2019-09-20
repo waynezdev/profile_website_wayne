@@ -231,6 +231,10 @@ a.topbaroption:hover {
   text-align: center;
 }
 
+footer {
+  display: block;
+}
+
 #topimage {
   width: 100%;
 }
