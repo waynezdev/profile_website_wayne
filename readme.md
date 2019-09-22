@@ -1,5 +1,11 @@
 # Wayne's Portfolio website
 
+published site
+
+https://upbeat-colden-3bf526.netlify.com/
+
+
+
 ### Documentation Requirements
 
 Documentation for this project must be supplied as part of the following documents,
@@ -28,7 +34,7 @@ General project documentation is to be compiled as a single markdown file named 
 
 The aim of this website is to showcase my work as a web developer and programmer. It will give the viewer a sense of my style for design and my technical ability.
 
-The feel of this website should be simple, clean, lively and easy to navigate so the viewer can be attracted to the website and not lose interest as they go through the different pages
+The feel of this website should be simple, clean, lively and easy to navigate so the viewer can be attracted to the website and not lose interest as they go [through]() the different pages
 
 
 
@@ -42,11 +48,13 @@ navigation should be simple and easy to see where to click and what page you wan
 
 ##### **Color theme**
 
+![website24](C:\projects\profile_webite\docs\color_scheme\website24.jpg)
 
+I chose this color theme to convey a professional and friendly feel to the viewer. I want potential clients to feel I'm approachable and speak their language instead of talking only in tech language.
 
 ##### Font choices
 
-top bar - Lato (bold) , fall back - Open Sans, Arial
+top bar - Lato (bold) , fall back - Open Sans, sans-serif
 
 Headings - Raleway, fallback -  Source Sans Pro, Arial
 
@@ -145,6 +153,14 @@ Potential employers
 ## **Tech stack (e.g. html, css, deployment platform, etc)**
 
 
+
+My website utilized the following tech stacks
+
+- html
+- CSS
+- JavaScript
+- Git - GitHub
+- Deployment - Netlify
 
 
 
