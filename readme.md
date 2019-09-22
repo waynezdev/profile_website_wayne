@@ -4,8 +4,8 @@
 
 
 
-- A link (URL) to your published portfolio website - https://upbeat-colden-3bf526.netlify.com/
-- A link to your GitHub repository (repo)     - https://github.com/waynezdev/profile_website_wayne
+- published portfolio website - https://upbeat-colden-3bf526.netlify.com/
+- GitHub repository (repo)     - https://github.com/waynezdev/profile_website_wayne
 - readme sections     
   - Purpose
   - Functionality / features
@@ -22,10 +22,6 @@
 The aim of this website is to showcase my work as a web developer and programmer. It will give the viewer a sense of my style for design and my technical ability.
 
 The feel of this website should be simple, clean, lively and easy to navigate so the viewer can be attracted to the website and not lose interest as they go through the different pages.
-
-
-
-
 
 
 
@@ -63,7 +59,7 @@ navigation should be simple and easy to see where to click and what page you wan
 
 ![website24](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/color_scheme/website24.jpg)
 
-I chose this color theme to convey a professional and friendly feel to the viewer. I want potential clients to feel I'm approachable and speak their language instead of talking only in tech language.
+I chose this color theme to convey a professional and friendly feel to the viewer. I want potential clients to feel I'm approachable and speak their language instead of talking only in tech language and feel intimated. 
 
 ##### Font choices
 
@@ -77,7 +73,7 @@ Special words on images -  Nothing You Could Do, fall back - Rennie Beanie, Crim
 
 
 
-
+For one off special text I later chose to use image editing tools to get the exact size and position so I have better control over the presentation of images.
 
 
 
@@ -111,7 +107,7 @@ The following screenshots are taken during the building my site. It shows the pr
 
 ![trello screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/trello04.PNG)
 
-
+![trello screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/trello05.PNG)
 
 The screenshot below is an issue log which I used to keep track of small issues that I have to work on during the development of my site.
 
@@ -123,15 +119,7 @@ It gives me a better view of what I need to do to achieve things in the Trello b
 
 
 
-
-
-
-
-
-
 ## **Target audience**
-
-
 
 
 
@@ -160,11 +148,11 @@ My website utilized the following tech stacks
 
 
 
-Thanks for reading
+*Thanks for reading*
 
 
 
-End of document.
+*End of document.*
 
 
 
