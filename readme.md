@@ -34,7 +34,7 @@ General project documentation is to be compiled as a single markdown file named 
 
 The aim of this website is to showcase my work as a web developer and programmer. It will give the viewer a sense of my style for design and my technical ability.
 
-The feel of this website should be simple, clean, lively and easy to navigate so the viewer can be attracted to the website and not lose interest as they go [through]() the different pages
+The feel of this website should be simple, clean, lively and easy to navigate so the viewer can be attracted to the website and not lose interest as they go through the different pages.
 
 
 
@@ -48,7 +48,7 @@ navigation should be simple and easy to see where to click and what page you wan
 
 ##### **Color theme**
 
-![website24](C:\projects\profile_webite\docs\color_scheme\website24.jpg)
+![website24](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/color_scheme/website24.jpg)
 
 I chose this color theme to convey a professional and friendly feel to the viewer. I want potential clients to feel I'm approachable and speak their language instead of talking only in tech language.
 
@@ -70,19 +70,19 @@ Special words on images -  Nothing You Could Do, fall back - Rennie Beanie, Crim
 
 ##### Feature 1
 
-Carousel display of the most recent work
+**Carousel** in the homepage to display of the most recent work.
 
 
 
 ##### Feature 2
 
-Blog page 
+**Blog page** to show my current activities and share certain personal life so viewers can get to know me better
 
 
 
 ##### Feature 3
 
-Contact form for viewers to send message to me
+**Contact form** for potential client or employer to easily contact me. Also for anyone want to send me any comments or feedback about my site.
 
 
 
@@ -96,7 +96,7 @@ Contact form for viewers to send message to me
 
 
 
-
+![sitemap](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/sitemap.png)
 
 
 
