@@ -1,32 +1,19 @@
 # Wayne's Portfolio website
 
-published site
-
-https://upbeat-colden-3bf526.netlify.com/
+#### README document content
 
 
 
-### Documentation Requirements
-
-Documentation for this project must be supplied as part of the following documents,
-
-1. README document
-2. Slide deck
-
-#### README document
-
-General project documentation is to be compiled as a single markdown file named `README.md`. This file should contain,
-
-- A link (URL) to your published portfolio website
-- A link to your GitHub repository (repo)     
-  - Ensure the repo is accessible by your Educators
-- Description of your portfolio website, including,     
+- A link (URL) to your published portfolio website - https://upbeat-colden-3bf526.netlify.com/
+- A link to your GitHub repository (repo)     - https://github.com/waynezdev/profile_website_wayne
+- readme sections     
   - Purpose
   - Functionality / features
+  - Design
   - Sitemap
   - Screenshots
   - Target audience
-  - Tech stack (e.g. html, css, deployment platform, etc)
+  - Tech stack
 
 ## **Purpose**
 
@@ -37,6 +24,32 @@ The aim of this website is to showcase my work as a web developer and programmer
 The feel of this website should be simple, clean, lively and easy to navigate so the viewer can be attracted to the website and not lose interest as they go through the different pages.
 
 
+
+
+
+
+
+## **Functionality / features**
+
+#### Feature 1
+
+**Carousel** in the homepage to display of the most recent work.
+
+
+
+#### Feature 2
+
+**Blog page** to show my current activities and share certain personal life so viewers can get to know me better
+
+
+
+#### Feature 3
+
+**Contact form** for potential client or employer to easily contact me. Also for anyone want to send me any comments or feedback about my site.
+
+
+
+## **Design**
 
 ##### **UX/UI**
 
@@ -66,28 +79,6 @@ Special words on images -  Nothing You Could Do, fall back - Rennie Beanie, Crim
 
 
 
-## **Functionality / features**
-
-##### Feature 1
-
-**Carousel** in the homepage to display of the most recent work.
-
-
-
-##### Feature 2
-
-**Blog page** to show my current activities and share certain personal life so viewers can get to know me better
-
-
-
-##### Feature 3
-
-**Contact form** for potential client or employer to easily contact me. Also for anyone want to send me any comments or feedback about my site.
-
-
-
-
-
 
 
 ## **Sitemap**
@@ -110,6 +101,24 @@ Special words on images -  Nothing You Could Do, fall back - Rennie Beanie, Crim
 
 
 
+The following screenshots are taken during the building my site. It shows the progress over time
+
+![trello screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/trello01.PNG)
+
+![trello screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/trello02.PNG)
+
+![trello screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/trello03.PNG)
+
+![trello screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/trello04.PNG)
+
+
+
+The screenshot below is an issue log which I used to keep track of small issues that I have to work on during the development of my site.
+
+It gives me a better view of what I need to do to achieve things in the Trello board and track the completion of each issue
+
+![issue log screenshot](https://raw.githubusercontent.com/waynezdev/profile_website_wayne/master/docs/screen_shots/issue_log.PNG)
+
 
 
 
@@ -126,26 +135,11 @@ Special words on images -  Nothing You Could Do, fall back - Rennie Beanie, Crim
 
 
 
-potential clients
+- potential clients - attract business clients who are looking for someone to help them design and build their website.
 
+- potential collaborators - connect with like minded devs and work on exciting new projects.
 
-
-potential collaborators
-
-
-
-Potential employers
-
-
-
-
-
-
-
-
-
-
-
+- Potential employers - connect with great companies that are looking for new devs to join their team.
 
 
 
@@ -161,6 +155,16 @@ My website utilized the following tech stacks
 - JavaScript
 - Git - GitHub
 - Deployment - Netlify
+
+
+
+
+
+Thanks for reading
+
+
+
+End of document.
 
 
 
